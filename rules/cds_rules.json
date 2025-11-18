@@ -1,0 +1,30 @@
+{
+  "sepsis_sirs": {
+    "hr": "> 90",
+    "temp": "> 38",
+    "wbc": "> 12000"
+  },
+  "hypoglycemia": {
+    "glucose": "< 70"
+  },
+  "hyperglycemia": {
+    "glucose": "> 180"
+  },
+  "hypertension_stage_1": {
+    "systolic": "> 130",
+    "diastolic": "> 80"
+  },
+  "hypertension_stage_2": {
+    "systolic": "> 140",
+    "diastolic": "> 90"
+  },
+  "tachycardia": {
+    "hr": "> 100"
+  },
+  "bradycardia": {
+    "hr": "< 60"
+  },
+  "low_oxygen": {
+    "spo2": "< 92"
+  }
+}
